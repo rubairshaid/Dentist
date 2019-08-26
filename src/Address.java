@@ -10,6 +10,14 @@ public class Address {
         return Country;
     }
 
+    public Address(String country, String state, String city, String street, String postalCode) {
+        Country = country;
+        State = state;
+        City = city;
+        Street = street;
+        PostalCode = postalCode;
+    }
+
     public void setCountry(String country) {
         Country = country;
     }
@@ -44,5 +52,15 @@ public class Address {
 
     public void setPostalCode(String postalCode) {
         PostalCode = postalCode;
+    }
+
+    @Override
+    public String toString() {
+        return "Address " +
+                "Country  " + Country + '\n' +
+                "State " + State + '\n' +
+                "City " + City + '\n' +
+                "Street " + Street + '\n' +
+                "PostalCode " + PostalCode  ;
     }
 }

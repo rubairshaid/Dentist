@@ -1,8 +1,10 @@
+import java.util.ArrayList;
+
 public class DentistAccount {
 
     PInformaition personInfo;
-    Education personEdu;
-    Address personAddress;
-    specialization personSp;
+    ArrayList<Education> personEdu;
+    ArrayList<Address> personAddress;
+    ArrayList<specialization> personSp;
 
 }

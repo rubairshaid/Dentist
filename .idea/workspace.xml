@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68332666-4b8b-4a88-81d7-5fefeb05569c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DentistAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DentistBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DentistImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/specialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dentist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dentist/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DentistAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DentistAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DentistBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DentistBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DentistImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DentistImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Education.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Education.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PInformaition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PInformaition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/specialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/specialization.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +79,7 @@
       <updated>1566759917388</updated>
       <workItem from="1566759922123" duration="3000" />
       <workItem from="1566760080008" duration="2195000" />
-      <workItem from="1566762852770" duration="3772000" />
+      <workItem from="1566762852770" duration="14315000" />
     </task>
     <servers />
   </component>

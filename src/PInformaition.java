@@ -10,6 +10,18 @@ public class PInformaition {
     private String gender;
     private String LCN;
 
+    public PInformaition(String fname, String lanme, String email, String website, int phone, String LN, int YIP, String gender, String LCN) {
+        Fname = fname;
+        Lanme = lanme;
+        Email = email;
+        this.website = website;
+        Phone = phone;
+        this.LN = LN;
+        this.YIP = YIP;
+        this.gender = gender;
+        this.LCN = LCN;
+    }
+
     public int getYIP() {
         return YIP;
     }

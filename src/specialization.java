@@ -3,6 +3,11 @@ public class specialization {
     private String AOS;
     private int SYear;
 
+    public specialization(String AOS, int SYear) {
+        this.AOS = AOS;
+        this.SYear = SYear;
+    }
+
     public String getAOS() {
         return AOS;
     }

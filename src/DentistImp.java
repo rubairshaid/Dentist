@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class DentistImp implements DentistBuilder {
 
     DentistAccount d;
@@ -19,19 +21,19 @@ public class DentistImp implements DentistBuilder {
     }
 
     @Override
-    public DentistBuilder setpersonedu(Education personedu) {
+    public DentistBuilder setpersonedu(ArrayList<Education> personedu) {
         d.personEdu=personedu;
         return this;
     }
 
     @Override
-    public DentistBuilder setpersonaddress(Address address) {
+    public DentistBuilder setpersonaddress(ArrayList<Address> address) {
         d.personAddress=address;
         return this;
     }
 
     @Override
-    public DentistBuilder setspecialization(specialization sp) {
+    public DentistBuilder setspecialization(ArrayList<specialization> sp) {
         d.personSp=sp;
         return this;
     }
